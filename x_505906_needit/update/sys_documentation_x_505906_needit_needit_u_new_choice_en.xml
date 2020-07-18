@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_new_choice" label="New choice" language="en" table="x_505906_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_new_choice</element>
+            <help/>
+            <hint/>
+            <label>New choice</label>
+            <language>en</language>
+            <name>x_505906_needit_needit</name>
+            <plural>New choices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-14 21:28:51</sys_created_on>
+            <sys_id>4dd618c9db061010f57c29e1ca9619a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New choice</sys_name>
+            <sys_package display_value="NeedIT" source="x_505906_needit">41a232bcdb021010f57c29e1ca96197b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIT">41a232bcdb021010f57c29e1ca96197b</sys_scope>
+            <sys_update_name>sys_documentation_x_505906_needit_needit_u_new_choice_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-14 21:28:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
