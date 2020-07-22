@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_505906_needit_needit" sizeclass="12" type="collection">
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_505906_needit_needit" sizeclass="14" type="collection">
         <element label="New field_1" max_length="150" name="new_field_1" type="string"/>
         <element label="New field_2" max_length="150" name="new_field_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="legal" label="New choice" mandatory="true" max_length="40" name="u_new_choice" type="string">
