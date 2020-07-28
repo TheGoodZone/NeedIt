@@ -6,7 +6,7 @@
         <sys_created_on>2020-07-14 14:13:46</sys_created_on>
         <sys_id>fba54803dbca9010f57c29e1ca96193c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_package display_value="NeedIT" source="x_505906_needit">41a232bcdb021010f57c29e1ca96197b</sys_package>
+        <sys_package display_value="NeedIt" source="x_505906_needit">41a232bcdb021010f57c29e1ca96197b</sys_package>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-14 14:13:46</sys_updated_on>
     </sys_package_dependency_m2m>

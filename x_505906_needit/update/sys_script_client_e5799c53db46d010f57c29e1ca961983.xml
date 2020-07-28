@@ -28,9 +28,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedIt Set Requeted for</sys_name>
         <sys_overrides/>
-        <sys_package display_value="NeedIT" source="x_505906_needit">41a232bcdb021010f57c29e1ca96197b</sys_package>
+        <sys_package display_value="NeedIt" source="x_505906_needit">41a232bcdb021010f57c29e1ca96197b</sys_package>
         <sys_policy/>
-        <sys_scope display_value="NeedIT">41a232bcdb021010f57c29e1ca96197b</sys_scope>
+        <sys_scope display_value="NeedIt">41a232bcdb021010f57c29e1ca96197b</sys_scope>
         <sys_update_name>sys_script_client_e5799c53db46d010f57c29e1ca961983</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-21 21:29:35</sys_updated_on>
